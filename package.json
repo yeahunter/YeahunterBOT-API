@@ -1,0 +1,23 @@
+{
+  "name": "yeahunterbot-api",
+  "version": "1.0.0",
+  "description": "Beszelget az adatbazissal, es a racsatlakozo klienssekkel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeahunter/YeahunterBOT-API.git"
+  },
+  "author": "yeahunter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeahunter/YeahunterBOT-API/issues"
+  },
+  "homepage": "https://github.com/yeahunter/YeahunterBOT-API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
